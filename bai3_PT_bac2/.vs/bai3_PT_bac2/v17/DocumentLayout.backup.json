@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IMIC\\test cuoi khoa C Cpp\\bai3_PT_bac2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FD1409-9515-49C4-929D-9F9FD712DB4F}|bai3_PT_bac2.vcxproj|D:\\IMIC\\test cuoi khoa C Cpp\\bai3_PT_bac2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3FD1409-9515-49C4-929D-9F9FD712DB4F}|bai3_PT_bac2.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\IMIC\\test cuoi khoa C Cpp\\bai3_PT_bac2\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\IMIC\\test cuoi khoa C Cpp\\bai3_PT_bac2\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-31T05:34:19.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
